@@ -1,4 +1,4 @@
-PixelShard V 0.00.00.1 Beta
+PixelShard V 0.00.00.2 Beta
 
 Initiate Drop. Survive the Fracture. Ascend.
 
